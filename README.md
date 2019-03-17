@@ -4,14 +4,16 @@
 
 ### 软件工程的定义
 Software engineering is “(1) the application of a systematic, disciplined, quantifiable approach to the development, operation, and maintenance of software, that is, the application of engineering to software,” and “(2) the study of approaches as in (1).” – IEEE Standard 610.12
+
 软件工程是指导计算机软件开发和维护的工程学科。采用工程的概念、原理、技术和方法来开发与维护有效的、实用的和高质量软件，把经过实践考验而证明正确的管理技术和当前能够得到的最好的技术方法结合起来，它主要涉及程序设计语言、数据库、软件开发工具、系统平台、标准、设计模式等方面。
 
 
+
 ### 解释导致 software crisis 本质原因、表现，述说克服软件危机的方法
-##### 本质原因
+#### 本质原因
 软件危机与硬件和软件开发过程的整体复杂性有关。本质原因是软件需求猛增且缺乏科学开发方法的指导，具体体现为缺乏正确的理论指导,软件开发规模越来越大,软件开发复杂度越来越高。
 
-##### 表现
+#### 表现
 项目超预算
 项目超时
 软件低效
@@ -20,11 +22,13 @@ Software engineering is “(1) the application of a systematic, disciplined, qua
 程序不能管理、代码难以维护
 软件永远不发布
 
-##### 克服软件危机的方法
+#### 克服软件危机的方法
 (1) 充分吸收和借鉴人类长期以来从事各种工程项目中积累的行之有效的有效原理、概念、技术与方法，特别是吸取几十年来人类从事计算机硬件研究和开发的经验教训。在开发软件的过程中努力作到良好的组织，严格的管理，相互友好的协作。
 (2) 推广在实践中总结出来的开发软件的成功的技术和方法，并研究更好、更有效的技术和方法，尽快克服在计算机系统早期发展阶段形成的一些错误概念和作法。
 (3) 根据不同的应用领域，开发更好的软件工具并使用这些工具。将软件开发各个阶段使用的软件工具集合成一个整体，形成一个很好的软件开发支环环境。 
 总之为了解决软件危机，既要有技术措施(方法和工具)，又要有必要的组织管理措施
+         
+         
 
 
 ### 软件生命周期
@@ -38,8 +42,7 @@ Software engineering is “(1) the application of a systematic, disciplined, qua
 
 软件设计
 
-程序编码
-
+程序编
 软件测试
 
 系统转换
